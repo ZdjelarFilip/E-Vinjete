@@ -9,7 +9,7 @@ Uporabnik lahko ob prijavi v sistem prične izpolnjevati oz. nakupovati svojo vi
 |:-------------|:-------------|
 | Vnos registrske tablice  | Za potrebe zmanjševanja napak je potrebno vnesti registrsko tablico dvakrat |
 | Izbira tipa vinjete | Uporabnik ima na izbiro 4 tipe vinjet ( tedenska, mesečna, letna, polletna) |
-| Izvedba transakcije  | Uspešnost nakupa se zabeleži v bazo |
+| Izvedba transakcije  | Uspešnost nakupa je zabeležena v bazo po 5 sekundah od izvedbe transakcije |
 
 <br>
 <br>
