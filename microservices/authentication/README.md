@@ -7,7 +7,7 @@ Odjava iz portala se izvede preko gumba *odjava*.
 
 
 | Funkcionalne zahteve | Nefunkcionalne zahteve |
-| ------------- | ------------- |
+|:-------------|:-------------|
 | Registracija uporabnika  | Email o uspešnosti registracije je poslan v manj kot 5 minutah |
 | Prijava uporabnika | Vsaka prijava je izvedena v manj kot 10 sekundah |
 | Odjava uporabnika  | Vsaka odjava je izvedena v manj kot 5 sekundah |
