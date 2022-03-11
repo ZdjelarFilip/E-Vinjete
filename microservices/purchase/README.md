@@ -4,7 +4,7 @@ Uporabnik lahko ob prijavi v sistem prične izpolnjevati oz. nakupovati svojo vi
 
 
 | Funkcionalne zahteve | Nefunkcionalne zahteve |
-| *** | *** |
+| ------------- | ------------- |
 | Vnos registrske tablice  | Za potrebe zmanjševanja napak je potrebno vnesti registrsko tablico dvakrat |
 | Izbira tipa vinjete | Uporabnik ima na izbiro 4 tipe vinjet ( tedenska, mesečna, letna, polletna) |
 | Izvedba transakcije  | Uspešnost nakupa se zabeleži v bazo |
