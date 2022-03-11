@@ -6,6 +6,8 @@ Uporabnik ima tudi možnost pregleda stanja za vsako posamezno registrsko tablic
 <br>
 <br>
 
+| Funkcionalne zahteve | Nefunkcionalne zahteve |
+|:-------------|:-------------|
 | Pregled veljavnosti vinjet  | Preverjanje traja manj kot 30 sekund |
 | Pregled stanja za posamezno registrsko tablico | Preverjanje je možno za več vinjet hkrati |
 | Izvedba transakcije  | Uspešnost nakupa se zabeleži v bazo |
