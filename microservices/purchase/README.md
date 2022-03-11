@@ -13,4 +13,5 @@ Uporabnik lahko ob prijavi v sistem prične izpolnjevati oz. nakupovati svojo vi
 
 <br>
 <br>
+
 ![PurchaseDiagram](https://user-images.githubusercontent.com/1338126/157852323-527a4450-2c8b-46a7-9b10-46c22d3b10c2.png)
